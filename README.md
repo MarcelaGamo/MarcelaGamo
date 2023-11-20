@@ -7,7 +7,7 @@
 En mi día a día:
 
   
-- 💻 Me sumerjo en el fascinante viaje del Desarrollo Web, construyendo sueños con HTML, CSS, JavaScript, y danzando entre las ramas de Git y GitHub.
+- 💻 Me sumerjo en el fascinante viaje del Desarrollo Web, construyendo sueños con HTML, CSS, JavaScript, y entre las ramas de Git y GitHub.
 
 - 📱 Navego  en el aprendizaje para la creación de Apps Móviles, tejiendo redes sociales y explorando los encantos de Firebase para dar vida a aplicaciones sorprendentes.
 
